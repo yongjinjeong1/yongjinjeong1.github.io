@@ -1,78 +1,45 @@
-# Product Name
-> Short blurb about what your product does.
+# 자기 소개
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+> 개발자를 꿈꾸는 학생 입니다, 저의 꿈은 백엔드 개발자로 서버 관련 분야에서 일하는 것을 목표로 하고 있습니다,
+> 
+> 또한 귀여운 강아지와 함께 지내고 있습니다.
 
-One to two paragraph statement about your product and what it does.
+![doc](https://user-images.githubusercontent.com/104139722/170447364-8a1d868d-4093-45d0-922a-53b2fcdbd2c9.png)
 
-![](header.png)
+## 현재 다룰 수 있는 언어
 
-## Installation
-
-OS X & Linux:
+C, C++, JAVA, Python 을 배우고 있으며 부족한 점이 많지만 간단한 매크로 프로그램을 작성하는 등의 응용이 가능합니다.
 
 ```sh
-npm install my-crazy-module --save
+C, C++, JAVA, Python
 ```
 
-Windows:
+최종 목표
 
 ```sh
-edit autoexec.bat
+백엔드 서버 개발자
 ```
 
-## Usage example
+## 초보 개발자로써
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
+개발 과정에 있어서 알아가는 것이 즐겁습니다, 가령 C 언어로 윈도우 프로그램을 작성하거나 Python 과 Selenium 을 이용한 자동 예매 매크로를 만드는 단계에서 막히는 부분이 있더라도 하나하나 알아가며 배우고 있습니다.
 
-_For more examples and usage, please refer to the [Wiki][wiki]._
+미숙한 점이 많지만 절대 포기하지 않습니다.
 
-## Development setup
+## 꿈을 위한 과정
 
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
+백엔드 개발자는 결코 쉽지 않다는 것을 잘 알고 있습니다, 데이터를 다루는 민감한 작업인 만큼 프로그래밍, 데이터베이스, 웹 서버, 네트워크, 인프라 등에 대한 지식이 요구되는 분야인 만큼, 해당 과정을 따르고 있습니다.
 
 ```sh
-make install
-npm test
+자바스크립트, HTML, CSS, NodeJS, Es2015+, jQuery에 대한 이해
+
+호환성이 좋고 간결한 코드를 작성할 수 있는 역량 증진
+
+데이터와 데이터베이스의 이해
 ```
 
-## Release History
+## 마치며
 
-* 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
-* 0.2.0
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
-* 0.1.1
-    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
-* 0.1.0
-    * The first proper release
-    * CHANGE: Rename `foo()` to `bar()`
-* 0.0.1
-    * Work in progress
+Github를 둘러보면서 이미 현직에 계신 많은 개발자와 저처럼 꿈을 가지고 한걸음 나아가는 초보 개발자들이 굉장히 많은걸 느꼈습니다, 
 
-## Meta
-
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
-
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
-[https://github.com/yourname/github-link](https://github.com/dbader/)
-
-## Contributing
-
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
-
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
+Github에 적은 이 자기소개서에 제 이력이 하나 둘씩 늘어나며 최종적으론 백엔드 개발자로써 당당하게 저의 개발 환경과 개발 과정을 이 Github에 공유하여 훗날 저처럼 어려움을 겪는 초보 개발자분들에게 힘이 되어주고 싶습니다.
